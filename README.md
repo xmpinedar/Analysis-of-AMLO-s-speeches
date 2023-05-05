@@ -107,11 +107,34 @@ Finally, a long list of the various infrastructures that are being built in Mexi
 
 ### **4th report on the Fourth Transformation of Mexico**
 
-- A pesar de la pandemia y la guerra en Ucrania, México está mejorando económicamente gracias a la estrategia de apoyo a los más pobres y el tratado comercial con Estados Unidos y Canadá.
+- Despite the pandemic and the war in Ukraine, Mexico is improving economically thanks to the strategy of supporting the poorest and the trade agreement with the United States and Canada.
 
-- México es considerado uno de los países con más potencial para invertir y hacer negocios.
+- Mexico is considered one of the countries with the most potential to invest and do business.
 
-<p style="text-align: justify;">En el gobierno actual, se han logrado varios avances, entre ellos: la prioridad a los pobres, la eliminación de la corrupción e impunidad, la distribución más justa de la riqueza, la elevación de derechos constitucionales para adultos mayores, discapacitados y estudiantes pobres, el fortalecimiento de la educación y la salud como derechos del pueblo, la reducción de la delincuencia, la garantía de la libertad de expresión y el derecho a disentir, la independencia de la Fiscalía General de la República y los poderes Legislativo y Judicial, la estabilidad del peso y el aumento de las reservas del Banco de México, la libertad religiosa y el Estado laico, la demostración de la riqueza cultural de México.</p>
+<p style="text-align: justify;">In the current government, various advances have been made, including: priority given to the poor, the elimination of corruption and impunity, a fairer distribution of wealth, the elevation of constitutional rights for the elderly, the disabled and poor students, the strengthening of education and health as rights of the people, the reduction of crime, the guarantee of freedom of expression and the right to dissent, the independence of the Office of the Attorney General of the Republic and the Legislative and Judicial powers, the stability of the peso and the increase in the reserves of the Bank of Mexico, religious freedom and the secular State, the demonstration of the cultural wealth of Mexico.</p>
 
 
 ![](https://media.giphy.com/media/gaZ01zvjkcS7zH3ulH/giphy.gif)
+
+
+# Code
+
+During the development of this project, various techniques and lines of code were used in order to obtain accurate results and analyze in depth the official presidential speeches of the President of the Republic.
+
+- Stemming and Tokenization
+- Frequency Analysis
+- Visualization with Altair
+- Sentiment analysis
+- Identification of main themes
+
+
+This code uses the Python "palettable" and "random" libraries together with the "WordCloud" library to create a wordcloud with a custom color palette. In particular, the frequency analysis used is for the reports of the López Obrador government.
+
+![](https://raw.githubusercontent.com/xmpinedar/Analysis-of-AMLO-s-speeches/master/src/Worcloud1.jpg)
+
+The list of word tuples and their frequency is shown below:
+
+[('ciento', 29), ('méxico', 20), ('pesos', 17), ('gobierno', 14), ('país', 10), ('pueblo', 9), ('pandemia', 9), ('pobres', 9), ('bienestar', 8), ('mundo', 8), ('construcción', 8), ('crecimiento', 7), ('ingreso', 7), ('logrado', 7), ('inversión', 7), ('atención', 7), ('públicos', 6), ('nacional', 6), ('población', 6), ('general', 6)]
+
+The use of the word "ciento" is very interesting, since it implies that on multiple occasions the president makes references to percentages, that is, to proportions. That is a way in which the receivers of the speech can get a clearer idea of the proportions that he way
+
