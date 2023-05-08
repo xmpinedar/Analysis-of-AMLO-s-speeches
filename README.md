@@ -139,5 +139,12 @@ The list of word tuples and their frequency is shown below:
 
 [('ciento', 29), ('méxico', 20), ('pesos', 17), ('gobierno', 14), ('país', 10), ('pueblo', 9), ('pandemia', 9), ('pobres', 9), ('bienestar', 8), ('mundo', 8), ('construcción', 8), ('crecimiento', 7), ('ingreso', 7), ('logrado', 7), ('inversión', 7), ('atención', 7), ('públicos', 6), ('nacional', 6), ('población', 6), ('general', 6)]
 
-The use of the word "ciento" is very interesting, since it implies that on multiple occasions the president makes references to percentages, that is, to proportions. That is a way in which the receivers of the speech can get a clearer idea of the proportions that he way
+The use of the word "ciento" is very interesting, since it implies that on multiple occasions the president makes references to percentages, that is, to proportions. That is a way in which the receivers of the speech can get a clearer idea of the proportions that he way.
+
+<br>
+## Las Mañaneras, 
+
+ In addition to the analysis of AMLO's government official Informs, we applied the same procedure to few “mañaneras” ( daily press conference)  transcriptions. 
+
+[Las Mañaneras](https://github.com/xmpinedar/Analysis-of-AMLO-s-speeches/blob/main/results/mananeras/readme.md)
 
