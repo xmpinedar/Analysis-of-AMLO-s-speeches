@@ -134,6 +134,9 @@ This code uses the Python "palettable" and "random" libraries together with the 
 
 The list of word tuples and their frequency is shown below:
 
+
+![](https://github.com/xmpinedar/Analysis-of-AMLO-s-speeches/blob/main/results/Worcloud1.jpg)
+
 [('ciento', 29), ('méxico', 20), ('pesos', 17), ('gobierno', 14), ('país', 10), ('pueblo', 9), ('pandemia', 9), ('pobres', 9), ('bienestar', 8), ('mundo', 8), ('construcción', 8), ('crecimiento', 7), ('ingreso', 7), ('logrado', 7), ('inversión', 7), ('atención', 7), ('públicos', 6), ('nacional', 6), ('población', 6), ('general', 6)]
 
 The use of the word "ciento" is very interesting, since it implies that on multiple occasions the president makes references to percentages, that is, to proportions. That is a way in which the receivers of the speech can get a clearer idea of the proportions that he way
