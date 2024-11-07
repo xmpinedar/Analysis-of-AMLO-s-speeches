@@ -1,4 +1,4 @@
-# Analysis of AMLO's speeches
+# Analysis of AMLO's speeches (NLP)
 
 # Repository structure
 
